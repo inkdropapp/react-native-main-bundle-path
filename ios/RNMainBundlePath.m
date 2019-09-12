@@ -2,8 +2,6 @@
 
 @implementation RNMainBundlePath
 
-@synthesize cachedDatabases;
-
 RCT_EXPORT_MODULE()
 
 RCT_EXPORT_METHOD(get:(RCTPromiseResolveBlock)resolve
