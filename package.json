@@ -1,0 +1,27 @@
+{
+  "name": "react-native-main-bundle-path",
+  "version": "1.0.0",
+  "description": "Get main bundle path on React Native",
+  "main": "index.js",
+  "homepage": "https://github.com/inkdropapp/react-native-main-bundle-path",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/inkdropapp/react-native-main-bundle-path.git"
+  },
+  "bugs": {
+    "url": "https://github.com/inkdropapp/react-native-main-bundle-path/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "ios"
+  ],
+  "author": "Takuya Matsuyama <hi@craftz.dog>",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": ">= 0.47.0"
+  },
+  "dependencies": {}
+}
