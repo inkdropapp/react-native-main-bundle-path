@@ -1,6 +1,6 @@
 {
   "name": "react-native-main-bundle-path",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get main bundle path on React Native",
   "main": "index.js",
   "homepage": "https://github.com/inkdropapp/react-native-main-bundle-path",
